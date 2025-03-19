@@ -2,7 +2,7 @@
 
 # SQLI
 ## Easy command
-'OR 1=1--
+'OR 1=1-- <br>
 'OR '1'='1'--'
 
 ## Autotools
