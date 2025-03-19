@@ -44,3 +44,6 @@ or <br>
 
 
 https://github.com/Kazusa613732/Hitmap-ver.1/blob/main/README.md
+
+# CVE-2024-4577
+https://github.com/gh-ost00/CVE-2024-4577-RCE
