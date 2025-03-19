@@ -1,6 +1,6 @@
 # Hacktools
 
-#SQLI
+# SQLI
 ## Easy command
 'OR 1=1--
 'OR '1'='1'--'
